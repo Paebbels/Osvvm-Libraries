@@ -9,39 +9,39 @@
 	url = ../OSVVM-Scripts.git
 [submodule "AXI4"]
 	path = AXI4
-	url = ../AXI4.git
+	url = ../OSVVM-AXI4.git
 [submodule "UART"]
 	path = UART
-	url = ../UART.git
+	url = ../OSVVM-UART.git
 [submodule "Documentation"]
 	path = Documentation
-	url = ../Documentation.git
+	url = ../OSVVM-Documentation.git
 [submodule "DpRam"]
 	path = DpRam
-	url = ../DpRam.git
+	url = ../OSVVM-DPRAM.git
 [submodule "Ethernet"]
 	path = Ethernet
-	url = ../Ethernet.git
+	url = ../OSVVM-Ethernet.git
 [submodule "CoSim"]
 	path = CoSim
-	url = ../CoSim.git
+	url = ../OSVVM-CoSim.git
 [submodule "VideoBus_LouisAdriaens"]
 	path = VideoBus_LouisAdriaens
-	url = ../VideoBus_LouisAdriaens.git
+	url = ../OSVVM-VideoBus.git
 [submodule "SPI_GuyEschemann"]
 	path = SPI_GuyEschemann
-	url = ../SPI_GuyEschemann.git
+	url = ../OSVVM-SPI.git
 	branch = main
 [submodule "Wishbone"]
 	path = Wishbone
-	url = ../Wishbone.git
+	url = ../OSVVM-Wishbone.git
 [submodule ".github/CoSimPCIe"]
 	path = CoSimPCIe
-	url = ../CoSimPCIe.git
+	url = ../OSVVM-CoSimPCIe.git
 	branch = main
 [submodule "AvalonST"]
 	path = AvalonST
-	url = ../AvalonST.git
+	url = ../OSVVM-AvalonST.git
 [submodule "SpaceWireMonitor"]
 	path = SpaceWireMonitor
 	url = ../SpaceWireMonitor.git
